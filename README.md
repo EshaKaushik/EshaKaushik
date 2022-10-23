@@ -20,18 +20,8 @@
 
 
 <a href="https://github.com/EshaKaushik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EshaKaushik&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="EshaKaushik's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EshaKaushik&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&include_all_commits=true" alt="EshaKaushik's GitHub Stats" />
 </a>
 <a href="https://github.com/EshaKaushik/EshaKaushik">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshaKaushik&hide=java,scss,less,html,css&exclude_repo=Applozic-Web-Plugin,deep-learning-keras-tensorflow,Learning-Web-Development,JH-frontend-course,EshaKaushik.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<!-- 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EshaKaushik&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshaKaushik&hide=java,scss,less,html,css&exclude_repo=Applozic-Web-Plugin,deep-learning-keras-tensorflow,Learning-Web-Development,JH-frontend-course,EshaKaushik.github.io&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
- -->
-<!---
-EshaKaushik/EshaKaushik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
