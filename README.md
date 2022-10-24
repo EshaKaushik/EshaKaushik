@@ -4,7 +4,7 @@
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m interested in learning new technologies;
 - 📫 How to reach me: eshakaushik2001@gmail.com;
 -  <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; My [Resume](https://drive.google.com/file/d/1iy1f8yvAunk9gUyK1fOHmOmtTRh5oxVT/view?usp=sharing).
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; My [Resume](https://drive.google.com).
 
 ### <samp>&gt; Profile Link 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/esha-15617b173/)
